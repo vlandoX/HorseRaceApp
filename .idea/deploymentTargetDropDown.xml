@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="addNoteScreenEndToEndTest()">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="deleteNote_noteIsNotDisplayed()">
+        <State />
+      </entry>
+      <entry key="insertNote_noteIsDisplayed()">
+        <State />
+      </entry>
+      <entry key="noteListScreenEndToEndTest()">
+        <State />
+      </entry>
+      <entry key="notesEndToEntTest()">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
